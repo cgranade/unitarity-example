@@ -1,0 +1,9 @@
+name: unitarity-example
+dependencies:
+  - scipy
+  - python=2.7
+  - jupyter
+  - matplotlib
+  - configobj # Needed to read qutiprc files.
+  - pip:
+    - git+https://github.com/qutip/qutip
