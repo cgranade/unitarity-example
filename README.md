@@ -1,5 +1,7 @@
 ## Unitarity Example ##
 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/cgranade/unitarity-example)
+
 This repository hosts a small example of applying Wallman *et al.* [1503.07865](https://arxiv.org/abs/1503.07865v3), [doi:10/bdcd](https://dx.doi.org/10/bdcd
 ) on a single qubit.
 
